@@ -1,0 +1,20 @@
+shell = "/opt/homebrew/bin/nu"
+
+live_config_reload = true
+
+[window]
+position.x = 0
+position.y = 0
+
+opacity = 0.8
+
+option_as_alt = "OnlyLeft"
+
+[font]
+size = 18
+
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+
+[cursor.style]
+shape = "Underline"
+
